@@ -395,8 +395,10 @@ Feature engineering is a critical step in building effective machine learning mo
 
 </div>
 
+---
+
 <div align="center">
 
-_Created by Nhan Pham Thanh — 2025_
+🩷 _Created by Nhan Pham Thanh — 2025. Feel free to contribute!_ 🩷
 
 </div>
